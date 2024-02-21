@@ -1,0 +1,16 @@
+Occam's Razer
+    Try to choose simple model but not a way simplest model
+    simple model is need to be choose due to Generalization
+Underfit - It is way to simple, it will not learn properly while training
+Overfit - It is way to complex model, it will learn more while training, but not able to predict properly while testing phase
+What do you mean by Complex Model
+    The model complexity refers to the complexity of the function attempted to be learned – similar to a polynomial degree. The nature of the training data generally determines the proper level of model complexity.
+    Model complexity refers to the number and type of parameters, features, and interactions that your model uses to learn from the data
+What is underfitting and overfitting
+    Underfitting - Model complexity refers to the number and type of parameters, features, and interactions that your model uses to learn from the data.
+    Overfitting - A statistical model is said to be overfitted when the model does not make accurate predictions on testing data.
+How to Avoid Overfitting
+    Early stopping. Early stopping pauses the training phase before the machine learning model learns the noise in the data. ... Pruning. You might identify several features or parameters that impact the final prediction when you build a model.
+    Regularization. ...
+    Ensembling. ...
+    Data augmentation
